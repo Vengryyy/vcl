@@ -78,3 +78,11 @@ textarea:focus{
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
 }
+
+* {
+    cursor: url(cur.png), auto;
+}
+
+textarea {
+    cursor: url(poi.png), auto;
+}
