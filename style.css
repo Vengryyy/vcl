@@ -80,9 +80,9 @@ textarea:focus{
 }
 
 * {
-    cursor: url(cur.png), auto;
+    cursor: url(https://raw.githubusercontent.com/Vengryyy/vcl/main/cur.png), auto;
 }
 
 textarea {
-    cursor: url(poi.png), auto;
+    cursor: url(https://raw.githubusercontent.com/Vengryyy/vcl/main/poi.png), auto;
 }
